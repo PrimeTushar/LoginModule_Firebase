@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Login">LOGIN</string>
+    <string name="Signup">SIGNUP</string>
+    <string name="Username">User name</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="CotactNo">Contact No</string>
+    <string name="Name">Name</string>
+    <string name="Reset">Forgot Password</string>
+    <string name="Reset_button">Reset Password</string>
+</resources>

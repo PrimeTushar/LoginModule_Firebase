@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618825631679",
+    "project_id": "login-f49eb",
+    "storage_bucket": "login-f49eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618825631679:android:f93ad1ba4f67da7ae5030a",
+        "android_client_info": {
+          "package_name": "com.wichitra.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618825631679-7002rv491oqsk3k3n6f7r6lk1q7jausl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7rayVj7OSxPLDU3Jdjc4cw57i7f-J4n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618825631679-7002rv491oqsk3k3n6f7r6lk1q7jausl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
